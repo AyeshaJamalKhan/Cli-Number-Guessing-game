@@ -1,0 +1,19 @@
+{
+  "name": "2m43-cli-number-guessing-game",
+  "version": "1.0.0",
+  "description": "Cli-Bassed-Number-Guessing game.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
